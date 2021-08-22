@@ -1,0 +1,1 @@
+1. [react-query practical](https://tkdodo.eu/blog/practical-react-query)
